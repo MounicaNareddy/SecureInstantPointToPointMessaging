@@ -1,0 +1,2 @@
+# SecureInstantPointToPointMessaging
+This is a point-to-point (P2P) Messaging application which supports a client or user in sending messages to another user. This application ensures that this communication is secure and that the message is received only by the designated user (receiver). It is setup using a password. This application uses a key to encrypt and decrypt the message being communicated, and the key used is 56-bits of length. 
